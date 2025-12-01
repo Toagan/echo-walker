@@ -1,7 +1,7 @@
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
-const GRAVITY = 0.5;
+const GRAVITY = 1;
 const JUMP_FORCE = -12;
 const MOVE_SPEED = 5;
 
